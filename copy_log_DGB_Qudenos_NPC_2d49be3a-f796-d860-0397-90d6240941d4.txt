@@ -1,0 +1,259 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+   Mon 05/19/2025  6:55:37.32 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\meta.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Content\[PAK]_DGB_Qudenos_NPC\0778e78e-21c0-1e06-189a-6bd88087a850.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4: 1 
+ 
+[LOG] Total files found across all folders: 4 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 to Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[DEBUG] Using destination: Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:55:40 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     693	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\meta.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :       693       693         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              693000 Bytes/sec.
+   Speed :              39.653 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:55:40 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Editor\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 to "Editor\Mods"\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[DEBUG] Using destination: Editor\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:55:42 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Editor\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:55:42 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 to Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[DEBUG] Using destination: Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:55:44 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    2648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\meta.lsx100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :     2.7 k     2.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2785000 Bytes/sec.
+   Speed :             159.358 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:55:44 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 to Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[DEBUG] Using destination: Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:55:45 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   10787	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4\Content\[PAK]_DGB_Qudenos_NPC\0778e78e-21c0-1e06-189a-6bd88087a850.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    10.5 k    10.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:55:45 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Qudenos_NPC_2d49be3a-f796-d860-0397-90d6240941d4 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 4 
+[SUMMARY] Total files successfully copied: 8 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

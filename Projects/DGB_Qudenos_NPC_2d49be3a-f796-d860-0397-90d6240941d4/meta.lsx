@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="2d49be3a-f796-d860-0397-90d6240941d4"/>
+            <attribute id="Name" type="LSString" value="DGB_Qudenos_NPC"/>
+            <attribute id="UUID" type="LSString" value="13c5f637-5d0f-cd6e-7563-e741238c5368"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
